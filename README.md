@@ -1,2 +1,2 @@
 # Duppic
-Find duplicate pictores in your pictures folders.
+Find duplicate pictures in your pictures folders.
